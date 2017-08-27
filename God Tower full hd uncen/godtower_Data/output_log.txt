@@ -1,0 +1,80 @@
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics Family (ID=0xa16)
+    Vendor:   Intel
+    VRAM:     1112 MB
+    Driver:   20.19.15.4531
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Phan Thai Nam\Documents\God Tower\godtower_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Phan Thai Nam\Documents\God Tower\godtower_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Phan Thai Nam\Documents\God Tower\godtower_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Phan Thai Nam\Documents\God Tower\godtower_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Phan Thai Nam\Documents\God Tower\godtower_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Phan Thai Nam\Documents\God Tower\godtower_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Phan Thai Nam\Documents\God Tower\godtower_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Phan Thai Nam\Documents\God Tower\godtower_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Phan Thai Nam\Documents\God Tower\godtower_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading C:\Users\Phan Thai Nam\Documents\God Tower\godtower_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: C:\Users\Phan Thai Nam\Documents\God Tower\godtower_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\Phan Thai Nam\Documents\God Tower\godtower_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.048 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.990750 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 143.868403 ms
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 334.
+Total: 7.184138 ms (FindLiveObjects: 0.036592 ms CreateObjectMapping: 0.027667 ms MarkObjects: 7.089533 ms  DeleteObjects: 0.029006 ms)
+
+QUSAwhauhsn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.559675 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 334.
+Total: 0.472576 ms (FindLiveObjects: 0.098620 ms CreateObjectMapping: 0.033914 ms MarkObjects: 0.323975 ms  DeleteObjects: 0.013833 ms)
+
+QUSAwhauhsn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.430628 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 348.
+Total: 0.268194 ms (FindLiveObjects: 0.029452 ms CreateObjectMapping: 0.014279 ms MarkObjects: 0.211075 ms  DeleteObjects: 0.012494 ms)
+
+QUSAwhauhsn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+QUSAwhauhsn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.843407 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 518.
+Total: 1.225841 ms (FindLiveObjects: 0.090588 ms CreateObjectMapping: 0.044178 ms MarkObjects: 1.057606 ms  DeleteObjects: 0.032129 ms)
+
+QUSAwhauhsn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.339634 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 428.
+Total: 0.801014 ms (FindLiveObjects: 0.095496 ms CreateObjectMapping: 0.063813 ms MarkObjects: 0.597971 ms  DeleteObjects: 0.041501 ms)
+
+QUSAwhauhsn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
